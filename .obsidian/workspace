@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c864e01b619f3753",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f170f2bf2d175a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Template/Circadian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5543297a498e5aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7167f19c487832ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3106502c86266bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e19cdd56a121cdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f2d1f53c4638975",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7b4b6765fdf7b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff8339c10fcd00b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Template/Circadian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f170f2bf2d175a7",
+  "lastOpenFiles": [
+    "Template/Circadian.md"
+  ]
+}
