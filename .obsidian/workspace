@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f170f2bf2d175a7",
+        "id": "3f41627c8ca61787",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Template/Circadian.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Circadian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,11 +79,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "9f170f2bf2d175a7",
+  "active": "3f41627c8ca61787",
   "lastOpenFiles": [
-    "Template/Circadian.md"
+    "Circadian/1.md",
+    "Template/Circadian.md",
+    "Template/Circadian 1.md"
   ]
 }
