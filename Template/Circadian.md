@@ -1,8 +1,8 @@
 >###### {{date}} | {{time}}
 >###### Fell Asleep;
-> $\quad$
+> $\quad$ ~: M, 
 >###### Woke Up;
-> $\quad$
+> $\quad$ ~: M, 
 > <br>
 
 --- 
