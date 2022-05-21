@@ -1,5 +1,5 @@
 >###### {{date}} | {{time}}
->###### Got in Bed;
+>###### In Bed as Of;
 > $\quad$ ~: M, 
 >###### Fell Asleep;
 > $\quad$ ~: M, 
