@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddb7f73e6e6e5753",
+        "id": "68b6a4efc7301d74",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Circadian/C12.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circadian/C12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +81,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ddb7f73e6e6e5753",
+  "active": "68b6a4efc7301d74",
   "lastOpenFiles": [
+    "Circadian/C14.md",
+    "Circadian/C13.md",
     "Circadian/C12.md",
     "Circadian/C11.md",
     "Circadian/C10.md",
@@ -94,8 +92,6 @@
     "Circadian/C9.md",
     "Circadian/C8.md",
     "Circadian/C7.md",
-    "Circadian/C6.md",
-    "Circadian/C5.md",
-    "Circadian/C4.md"
+    "Circadian/C6.md"
   ]
 }
