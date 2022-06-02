@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b5853fb2cb28451a",
+        "id": "90e122bda1b8a474",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Circadian/C17.md",
-            "mode": "source"
-          }
-        },
-        "group": "f32a909f9ad87e17"
-      },
-      {
-        "id": "f973b4e002f9d176",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Circadian/C17.md",
-            "mode": "preview"
-          }
-        },
-        "group": "f32a909f9ad87e17"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circadian/C17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5853fb2cb28451a",
+  "active": "90e122bda1b8a474",
   "lastOpenFiles": [
+    "Circadian/C19.md",
+    "Circadian/C18.md",
     "Circadian/C17.md",
     "Circadian/C16.md",
-    "Circadian/C18.md",
     "Circadian/C15.md",
     "Circadian/C14.md",
     "Circadian/C13.md",
     "Circadian/C12.md",
     "Circadian/C11.md",
-    "Circadian/C10.md",
-    "Template/Circadian.md"
+    "Circadian/C10.md"
   ]
 }
