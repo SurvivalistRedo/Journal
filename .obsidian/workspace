@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fc703d1a7cc81fe0",
+        "id": "72a1c9d6f0871844",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -19,7 +19,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7167f19c487832ba",
+        "id": "893989f89e34d9aa",
         "type": "tabs",
         "children": [
           {
@@ -44,12 +44,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bef7aa48a33ef7e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "0f2d1f53c4638975",
@@ -82,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fc703d1a7cc81fe0",
+  "active": "72a1c9d6f0871844",
   "lastOpenFiles": [
-    "Circadian/1-100/41-50/C41-U-ST.md",
+    "Circadian/1-100/41-50/C46.md",
+    "Circadian/1-100/41-50/C45.md",
     "Circadian/1-100/41-50/C44-ST.md",
-    "Circadian/1-100/41-50/C43-U-ST.md",
-    "Circadian/1-100/41-50/C42-U.md",
-    "Circadian/1-100/31-40/C40.md",
-    "Circadian/1-100/31-40/C39.md",
-    "Circadian/1-100/31-40/C38.md",
-    "Circadian/1-100/31-40/C37.md",
-    "Circadian/1-100/31-40/C36.md",
-    "Circadian/1-100/31-40/C35.md"
+    "Circadian/1-100/41-50/C41-U-ST.md",
+    "Circadian/1-100/11-20/C18.md",
+    "Circadian/1-100/21-30/C23.md",
+    "Circadian/1-100/1-10/C9.md",
+    "Circadian/1-100/31-40/C33.md",
+    "Circadian/1-100/31-40/C34.md",
+    "Circadian/1-100/11-20/C20.md"
   ]
 }
